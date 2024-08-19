@@ -1,16 +1,11 @@
 # LeetCode
-My Solutions to LeetCode problems
-Leet Code is a website which Uploads Coding Problems and keep track of your stats there.
-Here you can find my solutions to thier Coding problems.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [1894-merge-strings-alternately](https://github.com/Muhammadomer902/LeetCode/tree/master/1894-merge-strings-alternately) |
-## String
-|  |
-| ------- |
-| [1894-merge-strings-alternately](https://github.com/Muhammadomer902/LeetCode/tree/master/1894-merge-strings-alternately) |
-<!---LeetCode Topics End-->
+This repository contains my solutions to LeetCode problems.
+
+Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+
+ ## Made by 
+ - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
+ - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+
+ Happy coding! 🚀
