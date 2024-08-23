@@ -9,7 +9,7 @@ class Solution(object):
                 templist = i.split('/')
                 num = num + Fraction(int(templist[0]),int(templist[1]))
         if num%1==0:
-            return str(num)+\/1\
+            return str(num)+'/1'
         return str(num)
         
         
