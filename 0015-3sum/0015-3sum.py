@@ -1,22 +1,34 @@
 class Solution(object):
     def threeSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
-        x = []
-        seen = set()
-        index = 0;
-        if len(nums)<3:
-            return []
-        nums = sorted(nums)
-        print(nums)
-        for i in range(0,len(nums)-2):
-            for j in range(i+1,len(nums)-1):
-                for k in range(j+1, len(nums)):
-                    if nums[i]+nums[j]+nums[k]==0:
-                        t = tuple([nums[i],nums[j],nums[k]])
-                        if t not in seen:
-                            seen.add(t)
-                            x.append(t)
-        return x
+        nums.sort()
+        res = []
+
+        n = len(nums)
+        for i in range(n - 2):
+            # Skip duplicate first elements
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
+
+            l, r = i + 1, n - 1
+
+            while l < r:
+                s = nums[i] + nums[l] + nums[r]
+
+                if s == 0:
+                    res.append([nums[i], nums[l], nums[r]])
+
+                    # Skip duplicate left and right values
+                    while l < r and nums[l] == nums[l + 1]:
+                        l += 1
+                    while l < r and nums[r] == nums[r - 1]:
+                        r -= 1
+
+                    l += 1
+                    r -= 1
+
+                elif s < 0:
+                    l += 1
+                else:
+                    r -= 1
+
+        return res
