@@ -18,12 +18,12 @@ class Solution(object):
             while l<r:
                 sumt = nums[i] + nums[l] + nums[r]
 
-                if abs(target - sumt) <= abs(target - n):
+                if abs(target - sumt) < abs(target - n):
                     n =  sumt 
 
-                if sumt > 0:
+                if target - sumt < 0:
                     r-=1
-                elif sumt<0:
+                elif target - sumt > 0:
                     l+=1
                 else:
                     l+=1
