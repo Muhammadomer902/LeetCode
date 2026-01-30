@@ -21,6 +21,9 @@ class Solution(object):
                 if abs(target - sumt) < abs(target - n):
                     n =  sumt 
 
+                if sumt == target:
+                    return sumt
+
                 if target - sumt < 0:
                     r-=1
                     while l<r and nums[r]==nums[r+1]:
