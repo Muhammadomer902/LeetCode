@@ -5,34 +5,37 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        size = len(s)
-        flag = True
-        while size>=k:
-            count = 0
-            while count+size<=len(s):
-                subs = s[count:count+size]
-                arr = [0] * 26 
+        if k == 0:
+            return len(s)
+            
+        n = len(s)
+        ans = 0
 
-                for i in range(0,len(subs)):
-                    index = ord(subs[i]) - ord('a')
-                    arr[index] += 1
-
-                flag = True
-                for freq in arr:
-                    if freq == 0 or freq >= k:
-                        flag = True
-                    else:
-                        flag = False
-                        break
-
-                count+=1
+        for target_unique in range(1, 27):
+            left = 0
+            count = [0] * 26
+            unique = 0
+            enough = 0   
+            
+            for right in range(n):
+                idx = ord(s[right]) - ord('a')
+                count[idx] += 1
                 
-                if flag:
-                    return size
+                if count[idx] == 1:
+                    unique += 1
+                if count[idx] == k:
+                    enough += 1
+                
+                while unique > target_unique and left <= right:
+                    lidx = ord(s[left]) - ord('a')
+                    count[lidx] -= 1
+                    if count[lidx] == k - 1:
+                        enough -= 1
+                    if count[lidx] == 0:
+                        unique -= 1
+                    left += 1
 
-            if flag:
-                return size
-            else:
-                size-=1
-
-        return 0
+                if unique == enough:
+                    ans = max(ans, right - left + 1)
+        
+        return ans
