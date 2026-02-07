@@ -12,9 +12,4 @@ class Solution(object):
             elif i!='' and i!=".." and i!='.':
                 rpath.append(i)
 
-        rtpath =""
-
-        for i in rpath:
-            rtpath+= '/'+i
-
-        return rtpath if rtpath else '/'
+        return '/' + '/'.join(rpath)
