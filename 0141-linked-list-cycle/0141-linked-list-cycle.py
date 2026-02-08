@@ -11,6 +11,8 @@ class Solution(object):
         :rtype: bool
         """
         arr = [];count = 0;i = head
+        if not i:
+            return False
         while i.next!=None:
             if i not in arr:
                 arr.append(i)
