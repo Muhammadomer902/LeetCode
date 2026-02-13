@@ -5,10 +5,7 @@ class Solution(object):
         :type goal: str
         :rtype: bool
         """
-        # Check if the lengths are equal
         if len(s) != len(goal):
             return False
-        # Check if goal is a substring of s + s
-        return goal in (s + s)
 
-        
+        return goal in (s + s)
