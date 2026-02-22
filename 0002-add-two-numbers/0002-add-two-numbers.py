@@ -32,7 +32,4 @@ class Solution(object):
             digit = rnum%10
             rnum = int(rnum/10)
             self.addToList(digit,rlist)
-            # temp = ListNode(digit)
-            # rlist.next = temp
-            # rlist = rlist.next
         return rlist
