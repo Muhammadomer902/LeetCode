@@ -12,7 +12,7 @@ class Solution(object):
             digit = x%10
             x = x/10
             rnum = rnum*10 + digit
-            if rnum>2147483647 or rnum<-2147483648:
+            if rnum>2147483647 or (rnum==214748364 and digit > 7) or rnum<-2147483648:
                 return 0
         if flag:
             return -1*rnum
