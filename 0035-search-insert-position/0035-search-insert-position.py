@@ -5,21 +5,17 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        if nums[len(nums)-1]<target:
-            return len(nums)
-        if  nums[0]>target:
-            return 0
-        right = len(nums)-1;left = 0;index = (right+left+1)//2
-        while left<=right:
-            if nums[index]==target:
-                return index
-            elif nums[index]<target:
-                left = index+1
-                index = (right+left+1)//2
-            elif nums[index]>target:
-                right = index-1
-                index = (right+left+1)//2
-            
-            print(left,right)
+        left = 0
+        right = len(nums) - 1
         
-        return index    
+        while left <= right:
+            mid = (left + right) // 2
+            
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] < target:
+                left = mid + 1
+            else:
+                right = mid - 1
+        
+        return left
