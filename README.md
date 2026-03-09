@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muhammadomer902/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Muhammadomer902/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Muhammadomer902/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,10 +43,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0014-longest-common-prefix](https://github.com/Muhammadomer902/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Muhammadomer902/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Muhammadomer902/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +69,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Muhammadomer902/LeetCode/tree/main/0112-path-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
