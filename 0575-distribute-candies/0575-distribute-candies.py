@@ -9,3 +9,5 @@ class Solution(object):
             return num
         else:
             return len(unique)
+
+        # return min(len(set(candyType)), len(candyType)//2)
