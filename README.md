@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0036-valid-sudoku](https://github.com/Muhammadomer902/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0066-plus-one](https://github.com/Muhammadomer902/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0575-distribute-candies](https://github.com/Muhammadomer902/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Muhammadomer902/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0575-distribute-candies](https://github.com/Muhammadomer902/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
