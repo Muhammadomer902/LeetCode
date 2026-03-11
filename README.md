@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muhammadomer902/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Muhammadomer902/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Muhammadomer902/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Muhammadomer902/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0066-plus-one](https://github.com/Muhammadomer902/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Two Pointers
@@ -73,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Muhammadomer902/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -86,4 +88,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Muhammadomer902/LeetCode/tree/main/0066-plus-one/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Muhammadomer902/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
