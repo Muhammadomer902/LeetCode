@@ -37,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Muhammadomer902/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/Muhammadomer902/LeetCode/tree/main/0050-powx-n/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Muhammadomer902/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Muhammadomer902/LeetCode/tree/main/0066-plus-one/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
