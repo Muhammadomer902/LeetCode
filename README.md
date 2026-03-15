@@ -108,4 +108,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muhammadomer902/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Muhammadomer902/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
