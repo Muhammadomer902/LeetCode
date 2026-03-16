@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Muhammadomer902/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Muhammadomer902/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/Muhammadomer902/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Muhammadomer902/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Muhammadomer902/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0231-power-of-two](https://github.com/Muhammadomer902/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,4 +114,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/Muhammadomer902/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Muhammadomer902/LeetCode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
