@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0036-valid-sudoku](https://github.com/Muhammadomer902/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0066-plus-one](https://github.com/Muhammadomer902/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muhammadomer902/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0575-distribute-candies](https://github.com/Muhammadomer902/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muhammadomer902/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Muhammadomer902/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muhammadomer902/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +45,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Muhammadomer902/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muhammadomer902/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +90,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Muhammadomer902/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muhammadomer902/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0575-distribute-candies](https://github.com/Muhammadomer902/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -118,4 +122,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Muhammadomer902/LeetCode/tree/main/0231-power-of-two/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muhammadomer902/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
