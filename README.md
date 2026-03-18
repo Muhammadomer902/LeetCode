@@ -46,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Muhammadomer902/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muhammadomer902/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Muhammadomer902/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0050-powx-n](https://github.com/Muhammadomer902/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Muhammadomer902/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/Muhammadomer902/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Muhammadomer902/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
