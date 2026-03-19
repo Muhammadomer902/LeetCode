@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Muhammadomer902/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0036-valid-sudoku](https://github.com/Muhammadomer902/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muhammadomer902/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0575-distribute-candies](https://github.com/Muhammadomer902/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -128,4 +130,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muhammadomer902/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
