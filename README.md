@@ -55,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0058-length-of-last-word](https://github.com/Muhammadomer902/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
