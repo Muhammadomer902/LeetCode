@@ -42,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0050-powx-n](https://github.com/Muhammadomer902/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Muhammadomer902/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Muhammadomer902/LeetCode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Muhammadomer902/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Muhammadomer902/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0066-plus-one](https://github.com/Muhammadomer902/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/Muhammadomer902/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Muhammadomer902/LeetCode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Muhammadomer902/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Muhammadomer902/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Muhammadomer902/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Matrix
@@ -139,6 +141,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Muhammadomer902/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/Muhammadomer902/LeetCode/tree/main/0342-power-of-four/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
