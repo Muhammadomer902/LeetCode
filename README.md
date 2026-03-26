@@ -61,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/Muhammadomer902/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Muhammadomer902/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0709-to-lower-case](https://github.com/Muhammadomer902/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
